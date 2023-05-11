@@ -1,0 +1,22 @@
+.contenedor {
+    padding: 50px 3vh;
+}
+.buscador{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.buscador-text{
+    width: 500px;
+    height: 38px;
+    margin-right: 5px;
+}
+.btn-buscar{
+    width: 150px;
+}
+.contenedor-mapa-result{
+    margin-top: 50px;
+}
+.contenedor-mapa{
+    height: 620px;
+}
